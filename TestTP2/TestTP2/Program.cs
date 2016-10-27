@@ -10,7 +10,12 @@ namespace TestTP2
   {
     static void Main(string[] args)
     {
+
       Console.WriteLine("get good");
-    }
+
+      Console.WriteLine("generalkiwi1 was here");
+      
+      Console.WriteLine("http://l.facebook.com/l.php?u=http%3A%2F%2Fi.imgur.com%2FwZA5Lrf.gif&h=0AQHVOXCC");
+      }
   }
 }
