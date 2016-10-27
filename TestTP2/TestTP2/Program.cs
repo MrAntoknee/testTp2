@@ -11,9 +11,16 @@ namespace TestTP2
     static void Main(string[] args)
     {
 
-      Console.WriteLine("get good");
-
-      Console.WriteLine("generalkiwi1 was here");
+      bool omgGitGud = false;
+      for (int i = 0; i < 200; i++)
+      {
+        Console.WriteLine("git gud");
+      }
+      while (omgGitGud == false)
+      {
+        Console.ReadLine();
+        Console.WriteLine("You're bad, git gud");
+      }
       Console.Write("GG WP");
       
       Console.WriteLine("http://l.facebook.com/l.php?u=http%3A%2F%2Fi.imgur.com%2FwZA5Lrf.gif&h=0AQHVOXCC");
