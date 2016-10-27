@@ -10,7 +10,16 @@ namespace TestTP2
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("generalkiwi1 was here");
+      bool omgGitGud = false;
+      for (int i = 0; i < 200; i++)
+      {
+        Console.WriteLine("git gud");
+      }
+      while (omgGitGud == false)
+      {
+        Console.ReadLine();
+        Console.WriteLine("You're bad, git gud");
+      }
     }
   }
 }
