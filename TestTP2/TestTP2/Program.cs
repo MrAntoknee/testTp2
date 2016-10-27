@@ -10,6 +10,7 @@ namespace TestTP2
   {
     static void Main(string[] args)
     {
+      Console.WriteLine("generalkiwi1 was here");
     }
   }
 }
